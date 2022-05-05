@@ -1,0 +1,10 @@
+$primary-color: #fbac77;
+
+
+.about{
+    background-color: gray;
+
+    &__title{
+        background-color: $primary-color;
+    }
+}
